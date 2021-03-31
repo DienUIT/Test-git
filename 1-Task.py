@@ -14,6 +14,7 @@ if (j > n):
     print(-1)
 else:
     if (j % 2 == 0):
-        print(int(j / 2), 2)
+        print("Result = ",int(j / 2), 2)
     else:
-        print(int(j / 2) + 1, 1)
+        print("Result = ",int(j / 2) + 1, 1)
+
